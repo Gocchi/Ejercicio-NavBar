@@ -1,5 +1,6 @@
 ul{
 	background-color: #F5A9BC;
+	font-family: arial;
 }
 li {
 	display: inline-block;
@@ -11,6 +12,11 @@ a{
 	text-decoration: none;
 	color: white;
 	padding: 10px;
+}
+
+a:hover{
+	color: #A9F5A9;
+
 }
 
 span{
